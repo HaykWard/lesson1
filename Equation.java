@@ -1,6 +1,6 @@
 package lesson1;
 
-public class Equation {
+public class Equation{
 
     public static void main(String[] args) {
 
